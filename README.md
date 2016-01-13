@@ -62,3 +62,11 @@ What is working:
 - Spell checking
 
 - Mobile device support
+
+##To Do 
+
+update to Ember2.2 and decompose app.js and index.html into seperate js files and hbs files
+
+use ember service to directly integrate socket.io 
+
+use ember torii to integrate 3rd party login api better
